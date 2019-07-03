@@ -76,3 +76,7 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
+mysql://b62665f49732ed:4f426027@us-cdbr-iron-east-02.cleardb.net/heroku_1cb4b64cbb33b13?reconnect=true
+
