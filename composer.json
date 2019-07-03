@@ -10,13 +10,8 @@
 		"slack": "https://codeigniterchat.slack.com",
 		"source": "https://github.com/bcit-ci/CodeIgniter"
 	},
-	"require": {
-		"ext-mysql": "*",
- 		"ext-gettext": "*"
-	},
 	"require-dev": {
 		"mikey179/vfsStream": "1.1.*",
-		"phpunit/phpunit": "4.* || 5.*",
       "heroku/heroku-buildpack-php": "*"
    }
 }
