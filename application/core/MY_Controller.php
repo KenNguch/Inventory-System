@@ -74,7 +74,6 @@ class Admin_Controller extends MY_Controller
 
 	}
 
-	
 	public function currency()
 	{
 		return $currency_symbols = array(
