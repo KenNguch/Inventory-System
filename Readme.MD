@@ -1,11 +1,10 @@
 ######################
-Super Admin Crednetial
+Super Admin Credentials
 ######################
 email: admin@admin.com
 password: password
 
 database name: stock
-
 
 ###################
 What is CodeIgniter
