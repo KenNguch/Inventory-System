@@ -11,7 +11,7 @@
 		"source": "https://github.com/bcit-ci/CodeIgniter"
 	},
 	"suggest": {
-		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+		"paragonie/random_compat": "Provides bgitetter randomness in PHP 5.x"
 	},
 	"require-dev": {
 		"mikey179/vfsStream": "1.1.*",
