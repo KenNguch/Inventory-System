@@ -26,7 +26,7 @@
               <div class="inner">
                 <h3><?php echo $total_products ?></h3>
 
-                <p>Total Products</p>
+                <p>Products</p>
               </div>
               <div class="icon">
                 <i class="ion ion-bag"></i>
@@ -41,7 +41,7 @@
               <div class="inner">
                 <h3><?php echo $total_paid_orders ?></h3>
 
-                <p>Total Paid Orders</p>
+                <p>Paid Orders</p>
               </div>
               <div class="icon">
                 <i class="ion ion-stats-bars"></i>
@@ -56,7 +56,7 @@
               <div class="inner">
                 <h3><?php echo $total_users; ?></h3>
 
-                <p>Total Users</p>
+                <p>Users</p>
               </div>
               <div class="icon">
                 <i class="ion ion-android-people"></i>
