@@ -2,7 +2,7 @@
     <!-- Logo -->
     <a href="https://murmuring-woodland-75772.herokuapp.com/" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>ADN</b></span>
+      <span class="logo-mini"><b>KFS -ERP </b></span>
       <!-- logo for regular state and mobile devices -->
       <span class="logo-lg"><b>Kenya Forest Service ERP</b></span>
     </a>
