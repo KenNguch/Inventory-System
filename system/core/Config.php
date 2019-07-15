@@ -104,7 +104,7 @@ class CI_Config {
 			}
 			else
 			{
-				$base_url = 'https://murmuring-woodland-75772.herokuapp.com/';
+				$base_url = 'https://kenya-forest-management-system.herokuapp.com/';
 			}
 
 			$this->set_item('base_url', $base_url);

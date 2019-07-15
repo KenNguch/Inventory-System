@@ -1,6 +1,6 @@
 <header class="main-header">
     <!-- Logo -->
-    <a href="https://murmuring-woodland-75772.herokuapp.com/" class="logo">
+    <a href="https://kenya-forest-management-system.herokuapp.com/" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>KFS -ERP </b></span>
       <!-- logo for regular state and mobile devices -->
