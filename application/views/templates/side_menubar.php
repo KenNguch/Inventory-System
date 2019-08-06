@@ -156,9 +156,7 @@
         <li><a href="<?php echo base_url('auth/logout') ?>"><i class="glyphicon glyphicon-log-out"></i> <span>Logout</span></a></li>
 
 
-        <li>
-        <form><input type="button" value="BACK " onclick="history.go(-1);return false;" /></form>
-        </li>
+        
       </ul>
     </section>
     <!-- /.sidebar -->
