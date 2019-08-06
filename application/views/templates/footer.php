@@ -1,5 +1,8 @@
 
   <footer class="main-footer">
+  <div class="pull-right hidden-xs">
+      <b><form><input type="button" value="FORWARD " onclick="history.go(1);return false;" /></form></b> 
+    </div>
     <div class="pull-right hidden-xs">
       <b>Version</b> 0.1.0
     </div>
