@@ -10,7 +10,7 @@
     </h1>
     <ol class="breadcrumb">
       <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
-      <li class="active">Stores</li>
+      <li class="active">Forest</li>
     </ol>
   </section>
 
@@ -35,7 +35,7 @@
         <?php endif; ?>
 
         <?php if(in_array('createStore', $user_permission)): ?>
-          <button class="btn btn-primary" data-toggle="modal" data-target="#addModal">Add Store</button>
+          <button class="btn btn-primary" data-toggle="modal" data-target="#addModal">Add Forest</button>
           <br /> <br />
         <?php endif; ?>
 
@@ -79,7 +79,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title">Add Store</h4>
+        <h4 class="modal-title">Add Forest</h4>
       </div>
 
       <form role="form" action="<?php echo base_url('stores/create') ?>" method="post" id="createForm">
