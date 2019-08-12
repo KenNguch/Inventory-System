@@ -7,7 +7,7 @@ class Reports extends Admin_Controller
 	public function __construct()
 	{
 		parent::__construct();
-		$this->data['page_title'] = 'Stores';
+		$this->data['page_title'] = 'Forests';
 		$this->load->model('model_reports');
 	}
 
