@@ -53,7 +53,7 @@
                 <th>Product Name</th>
                 <th>Price</th>
                 <th>Qty</th>
-                <th>Store</th>
+                <th>Forest</th>
                 <th>Availability</th>
                 <?php if(in_array('updateProduct', $user_permission) || in_array('deleteProduct', $user_permission)): ?>
                   <th>Action</th>

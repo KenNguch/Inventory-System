@@ -118,7 +118,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title">Edit Store</h4>
+        <h4 class="modal-title">Edit Forest</h4>
       </div>
 
       <form role="form" action="<?php echo base_url('attributes/update') ?>" method="post" id="updateForm">
