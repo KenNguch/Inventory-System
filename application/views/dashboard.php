@@ -71,7 +71,7 @@
               <div class="inner">
                 <h3><?php echo $total_stores ?></h3>
 
-                <p>Total Stores</p>
+                <p>Total Forests</p>
               </div>
               <div class="icon">
                 <i class="ion ion-android-home"></i>

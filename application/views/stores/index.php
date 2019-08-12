@@ -6,7 +6,7 @@
   <section class="content-header">
     <h1>
       Manage
-      <small>Stores</small>
+      <small>Forests</small>
     </h1>
     <ol class="breadcrumb">
       <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
@@ -41,14 +41,14 @@
 
         <div class="box">
           <div class="box-header">
-            <h3 class="box-title">Manage Stores</h3>
+            <h3 class="box-title">Manage Forests</h3>
           </div>
           <!-- /.box-header -->
           <div class="box-body">
             <table id="manageTable" class="table table-bordered table-striped">
               <thead>
               <tr>
-                <th>Store Name</th>
+                <th>Forests Name</th>
                 <th>Status</th>
                 <?php if(in_array('updateStore', $user_permission) || in_array('deleteStore', $user_permission)): ?>
                   <th>Action</th>

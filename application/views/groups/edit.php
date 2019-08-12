@@ -137,7 +137,7 @@
                         } ?>></td>
                       </tr>
                       <tr>
-                        <td>Stores</td>
+                        <td>Forests</td>
                         <td><input type="checkbox" name="permission[]" id="permission" class="minimal" value="createStore" <?php if($serialize_permission) {
                           if(in_array('createStore', $serialize_permission)) { echo "checked"; } 
                         } ?>></td>
