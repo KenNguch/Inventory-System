@@ -78,6 +78,13 @@
             </li>
           <?php endif; ?>
 
+          <?php   ?>
+            <li id="storeNav">
+            <a href="<?php echo base_url('route-location/') ?>">
+                <i class="fa fa-files-o"></i> <span>Forest Location</span>
+              </a>
+            </li>
+          <?php endif; ?>
           <?php if(in_array('createAttribute', $user_permission) || in_array('updateAttribute', $user_permission) || in_array('viewAttribute', $user_permission) || in_array('deleteAttribute', $user_permission)): ?>
           <li id="attributeNav">
             <a href="<?php echo base_url('attributes/') ?>">
