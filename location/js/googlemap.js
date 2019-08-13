@@ -7,7 +7,7 @@ function loadMap() {
         lng: 36.626874
     };
     map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 15,
+        zoom: 8,
         center: pune,
         mapTypeId: 'terrain'
     });
