@@ -10,7 +10,7 @@ class Stores extends Admin_Controller
 
 		$this->not_logged_in();
 
-		$this->data['page_title'] = 'Stores';
+		$this->data['page_title'] = 'Forest';
 
 		$this->load->model('model_stores');
 	}
