@@ -25,7 +25,7 @@
             <div class="navigation">
                 <div>
 				                            <a href="https://kenya-forest-management-system.herokuapp.com/dashboard">
-                                <h3 align="center" ><span>GARBAGE </span>KOLLECTORZ</h3>
+                                <h3 align="center" ><span>Kenya Forest Services </span>ERP</h3>
                             </a>
                     <div class="navbar-collapse collapse">
                         <div  class="menu">
@@ -53,6 +53,11 @@ echo '<div id="allData">' . $allData . '</div>';
 ?>
 		<div id="map"></div>
 	</div>
+
+	<form>
+  <input type="button" value="Back!" onclick="history.go(-1)">
+</form>
+
 </body>
 <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA1bF3Ry-gVyKmSVse4s1zmfnyd4_9b3F8&callback=loadMap">
