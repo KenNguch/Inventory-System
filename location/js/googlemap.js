@@ -35,7 +35,6 @@ function showAllColleges(allData) {
         content.appendChild(strong);
 
         var img = document.createElement('img');
-        img.src = 'img/Leopard.jpg';
         img.style.width = '100px';
         content.appendChild(img);
 
