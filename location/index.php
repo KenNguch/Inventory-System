@@ -24,19 +24,13 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
             <div class="navigation">
                 <div>
-				                            <a href="http://garbagecollectionsystem.herokuapp.com/index.php">
+				                            <a href="https://kenya-forest-management-system.herokuapp.com/dashboard">
                                 <h3 align="center" ><span>GARBAGE </span>KOLLECTORZ</h3>
                             </a>
                     <div class="navbar-collapse collapse">
                         <div  class="menu">
                             <ul class="nav nav-tabs" role="tablist">
-                                <li role="presentation"><a href="http://garbagecollectionsystem.herokuapp.com/index.php" class="active">Dashboard</a></li>
-                                <li role="presentation"><a href="http://garbagecollectionsystem.herokuapp.com/customers_view.php">Customers</a></li>
-                                <li role="presentation"><a href="http://garbagecollectionsystem.herokuapp.com/bookings_view.php">Bookings</a></li>
-                                <li role="presentation"><a href="http://garbagecollectionsystem.herokuapp.com/trucks_view.php">Truck</a></li>
-                                <li role="presentation"><a href="http://garbagecollectionsystem.herokuapp.com/slots_view.php">Slots</a></li>
-								<li role="presentation"><a href="http://garbagecollectionsystem.herokuapp.com/availability_view.php">Availability</a></li>
-								<li role="presentation"><a href="http://garbagecollectionsystem.herokuapp.com/routes_view.php">Routes</a></li>
+                                <li role="presentation"><a href="https://kenya-forest-management-system.herokuapp.com/dashboard" class="active">Dashboard</a></li>
 					       </ul>
                         </div>
                     </div>
