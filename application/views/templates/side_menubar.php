@@ -80,7 +80,7 @@
 
           <?php   ?>
             <li id="storeNav">
-            <a href="http://kenya-forest-management-system.herokuapp.com/location/') ?>">
+            <a href="http://kenya-forest-management-system.herokuapp.com/location/">
                 <i class="fa fa-files-o"></i> <span>Forest Location</span>
               </a>
             </li>
